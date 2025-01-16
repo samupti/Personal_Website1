@@ -3,7 +3,7 @@ body {
     color: rgb(0, 0, 0);
     font-family: Helvetica Neue, Helvetica, Arial;
     margin: 20px;
-    padding: 20px;
+    padding: 10px 100px;
 }
 header { 
     background-color: rgb(255, 255, 255);
@@ -19,9 +19,8 @@ footer {
     padding: 10px 20px;
 }
 /* Responsive Rules */
-/* @media screen and (max-width: 715px) { */
+/* @media screen and (max-width: 715px) {} */
 
-}
 .features{
     background: white;
     padding: 20px;
