@@ -1,0 +1,41 @@
+body {
+    background-color: rgb(15, 42, 22);
+    color: rgb(0, 0, 0);
+    font-family: Helvetica Neue, Helvetica, Arial;
+    margin: 20px;
+    padding: 20px;
+}
+header { 
+    background-color: rgb(255, 255, 255);
+    padding: 30px 10px 10px 0px;
+}
+section {
+    background-color:  rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
+    padding: 10px 40px 400px;
+}
+footer {
+    background:  rgb(255, 255, 255);
+    padding: 10px 20px;
+}
+/* Responsive Rules */
+/* @media screen and (max-width: 715px) { */
+
+}
+.features{
+    background: white;
+    padding: 20px;
+    display: flex;
+flex-direction: row;
+}
+#Picture_section {
+    background-color:  rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
+    padding: 0px 0px 30px;
+}
+#wrap {
+margin:0 auto;
+    width: 600px;
+    height: 800px;
+    position: absolute;
+} 
