@@ -9,10 +9,15 @@ header {
     background-color: rgb(255, 255, 255);
     padding: 30px 10px 10px 0px;
 }
+#Picture_section {
+    background-color:  rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
+    padding: 0px 0px 0px 0px;
+}
 section {
     background-color:  rgb(255, 255, 255);
     color: rgb(0, 0, 0);
-    padding: 10px 40px 400px;
+    padding: 10px 40px 100px;
 }
 footer {
     background:  rgb(255, 255, 255);
@@ -21,16 +26,11 @@ footer {
 /* Responsive Rules */
 /* @media screen and (max-width: 715px) {} */
 
-.features{
+/* .features{
     background: white;
     padding: 20px;
     display: flex;
-flex-direction: row;
-}
-#Picture_section {
-    background-color:  rgb(255, 255, 255);
-    color: rgb(0, 0, 0);
-    padding: 0px 0px 30px;
+flex-direction: row; */
 }
 #wrap {
 margin:0 auto;
